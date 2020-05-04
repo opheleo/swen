@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Opheleo-Swen",
+    "description": "",
+    "home_page_url": "http://opheleo.gothub.io/swen",
+    "feed_url": "http://opheleo.gothub.io/swen/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Iraxel"
+    },
+    "items": [
+        {
+            "id": "http://opheleo.gothub.io/swen/test.html",
+            "url": "http://opheleo.gothub.io/swen/test.html",
+            "title": "Test",
+            "author": {
+                "name": "Iraxel"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-04T12:49:37+05:30",
+            "date_modified": "2020-05-04T12:49:37+05:30"
+        }
+    ]
+}
