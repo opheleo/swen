@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Opheleo-Swen",
     "description": "",
-    "home_page_url": "http://opheleo.gothub.io/swen",
-    "feed_url": "http://opheleo.gothub.io/swen/feed.json",
+    "home_page_url": "https://opheleo.github.io/swen",
+    "feed_url": "https://opheleo.github.io/swen/feed.json",
     "user_comment": "",
     "author": {
         "name": "Iraxel"
     },
     "items": [
         {
-            "id": "http://opheleo.gothub.io/swen/test.html",
-            "url": "http://opheleo.gothub.io/swen/test.html",
+            "id": "https://opheleo.github.io/swen/test.html",
+            "url": "https://opheleo.github.io/swen/test.html",
             "title": "Test",
             "author": {
                 "name": "Iraxel"
